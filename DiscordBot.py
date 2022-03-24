@@ -40,4 +40,4 @@ async def on_message(message):
     if message.content.startswith('$딩동'):
         await message.channel.send('브루애미')
 
-client.run('OTU2NjUwOTA0MzUyODc4NjYz.YjzUlQ.HZD3iqpXtNrsp_8J0pbN89amSRk') #토큰
+client.run('mytoken') #토큰
